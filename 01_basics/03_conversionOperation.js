@@ -18,3 +18,32 @@ console.log(valueInNumber);
 true =>1/false=>0
 undefined => NaN
 */
+
+// ************************ Operations ************************************
+
+let value = 89;
+let negValue = - value;
+console.log(negValue);
+
+// console.log(10*2);
+// console.log(10+2);
+// console.log(10-2);
+// console.log(10/2);
+// console.log(10%2);
+// console.log(10**2);
+
+let str1 = "hello";
+let str2 = " world!!";
+
+let str3 = str1+str2;
+console.log(str3);
+
+console.log(1+ "2");
+console.log("1"+ 2);
+console.log("1"+ 2 + 2);
+console.log(1+ 2 + "2");
+console.log(1+ "2" + 2);
+
+console.log(true);
+console.log(+true);
+console.log(+"");
