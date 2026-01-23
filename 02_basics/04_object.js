@@ -45,6 +45,8 @@ const {cousrename : cname} = course;
 console.log(cname);
 
 // ============================== API ===============================
+
+// json 
 // jSON (API)
 {
     "name" : "hello",
