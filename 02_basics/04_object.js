@@ -31,3 +31,22 @@ console.log(Object.entries(user));     // all key:values array's of array elemen
 
 console.log(user.hasOwnProperty('isLoggedIn')); // check this property is there or not
 
+// ============================== Destucturing ===============================
+
+const course = {
+    cousrename : "js in hindi",
+    price : "999",
+    cousreInstructor : "hitesh"
+}
+
+
+//course.coutsename [destructure]
+const {cousrename : cname} = course;
+console.log(cname);
+
+// ============================== API ===============================
+// jSON (API)
+{
+    "name" : "hello",
+    "age" : "21"
+}
