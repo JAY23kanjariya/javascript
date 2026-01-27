@@ -48,7 +48,7 @@ console.log(cname);
 
 // json 
 // jSON (API)
-{
-    "name" : "hello",
-    "age" : "21"
-}
+// {
+//     "name" : "hello",
+//     "age" : "21"
+// }
